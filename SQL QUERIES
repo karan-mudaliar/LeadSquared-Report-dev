@@ -1,0 +1,15 @@
+1. Write a query to print the number of employees per department in the organization
+
+SELECT DEPARTMENT,COUNT(*) FROM EMPLOYEE GROUP BY DEPARTMENT;
+
+2. Write an SQL query to find the name of the top-level manager of each department
+
+SELECT FIRST_NAME,LAST_NAME,MAX(MANAGER) FROM EMPLOYEE GROUP BY DEPARTMENT;
+
+3. Write a query to find the total incentive received by a given employee in a given month.
+
+SELECT FIRST_NAME,LAST_NAME,SUM(INCENTIVE_AMOUNT) FROM EMPLOYEE,INCENTIVES WHERE EMPLOYEE.EMPLOYEE_ID=INCENTIVE.EMPLOYEE_REF_ID GROUP BY MONTH(INCENTIVE_DATE);
+
+4. Write a query to find the month where employees got maximum incentive
+
+SELECT MONTH(INCENTIVE MONTH), MAX(INC) FROM(SELECT(INCENTIVE_DATE),SUM(INCENTIVE_AMOUNT) AS INC FROM INCENTIVES GROUP BY MONTH(INCENTIVE_DATE));
