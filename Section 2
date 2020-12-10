@@ -1,0 +1,34 @@
+5. You have two sand timers, which can show 4 minutes and 7 minutes respectively. Use both the sand timers (at a time or one after other or any other combination)
+and measure a time of 9 minutes.
+
+Start both hourglasses at the same time
+At 4 minutes When hourglass 4 mins runs out and flip it. 7 minutes hourglass will be left with 3 minutes.
+After another three minutes 4 minutes hourglass is left with 1 minute. 7 minutes hourglass runs out so we flip it.
+After 1 minute 4 minutes hourglass runs out and 7 is filled with 6 minutes and 1 minute on the other side. Flip it as the sand is left with 1 minute
+when 7 mins jar runs out 9 minutes will be over
+
+
+6. John and Mary are a married couple. They have two kids, one of them is a girl. Assume safely that the probability of each gender is 1/2.
+What is the probability that the other kid is also a girl?
+
+WE KNOW THAT ONE OF THE KIDS IS A GIRL. THIS LEAVES OUT ONLY THREE POSSIBILITIES WHICH ARE, <GIRL,GIRL>,<BOY,GIRL>,<GIRL,BOY>. HENCE, IF ONE CHILD IS ALREAD A GIRL,
+THEN THE PROBABILITY OF BOTH BEING A GIRL WOULD BE 1/3 WHICH CAN BE CONCLUDED FROM THE ABOVE LIST OF POSSIBILITIES
+
+7. The following appeared as part of a campaign to sell advertising time on a local radio station to local businesses.
+Ron’s Cafe began advertising on our local radio station this year and was delighted to see its business increase by 10 percent over last year's totals. Their success shows
+you how you can use radio advertising to make your business more profitable.
+Discuss how well reasoned you find this argument. In your discussion be sure to analyze the line of reasoning and the use of evidence in the argument. For
+example, you may need to consider what questionable assumptions underline the thinking and what alternative explanations or counterexamples might weaken
+the conclusion. You can also discuss what sort of evidence would strengthen or refute the argument, what changes in the argument would make it more logically
+sound and what, if anything, would help you better evaluate in conclusion.
+
+The above statement makes the flawed assumption that the radio advertisment is the only factor that contributed to the 10% increase in business.
+While it is possible that the radio ad contributed to the growth in revenue, it is not plausable. there could be a variety of other factors that
+contributed to the growth of the business. One such factor could be organic growth achieved through word of mouth and good will. It could also be 
+that the cafe had some discount schemes and offers which boosted the revenue. Or another possibilty could be a newer updated menu that pulled in a lot of customers.
+Yet another possibility is that a local competitor went out of business. These are just a few of the factors that could help explain the growth of the cafe.
+Even if it is granted that radio advertising is responsible for the success, another assumption must be made before we can conclude that radio advertising will result 
+in increased profits for businesses in general. We must also assume that what is true in this case will likewise be true of most other businesses.
+
+In conclusion, it would be a poor choice for a business to invest in radio advertising solely on the basis of the evidence presented. To strengthen the conclusion, 
+it must be established that radio advertising was the principal cause of increased business.
